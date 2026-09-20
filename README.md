@@ -27,7 +27,7 @@ A beginner Machine Learning project using Linear Regression to predict sales fro
 
 **Topics:** Data Analysis · Visualization · Linear Regression · Model Evaluation
 
-[View Project](../ml-learning-journey/tree/main/02-advertising-linear-regression)
+[View Project](https://github.com/rohinakhtar-ai/ml-learning-journey/tree/main/02-advertising-linear-regression)
 
 ## 🎯 Learning Direction
 
